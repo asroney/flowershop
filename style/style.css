@@ -80,15 +80,33 @@ body{
     text-align: center;
 }
 
-.box-image{
+.box-image-one{
     width:250px;
     height: 300px;
     padding-top: 60px;
     padding-right: 10px;
     padding-left: 10px;
-    background-color: #E55473;
+    background-color:#a7216226;
     border-radius: 300px 300px 0px 0px;
 
 }
 
+.box-image-two{
+    width:250px;
+    height: 300px;
+    padding-top: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #0597a026;
+    border-radius: 300px 300px 0px 0px;
+}
     
+.box-image-three{
+    width:250px;
+    height: 300px;
+    padding-top: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color:#477d1126;
+    border-radius: 300px 300px 0px 0px;
+}

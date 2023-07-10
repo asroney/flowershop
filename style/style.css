@@ -8,7 +8,6 @@ body{
 .banner-container{
     display: flex;
     justify-content: space-around;
-    align-items: center;
     background-color: rgba(229, 84, 115, 0.10);
     padding: 0px 240px;
     height: 100vh;
@@ -20,6 +19,8 @@ body{
 
 .bnr-image{
     width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .content-title{
@@ -42,4 +43,52 @@ body{
     border-radius: 8px;
     background: #E55473;
     color: white;
+    border: none;
+    border-radius: 10px;
 }
+
+.featured-container{
+    margin-right: 240px;
+    margin-left: 240px;
+    height: 90vh;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.featured-title{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.featured-description{
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.featured-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+.box{
+    height: 400px;
+    width: 350px;
+    text-align: center;
+}
+
+.box-image{
+    width:250px;
+    height: 300px;
+    padding-top: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #E55473;
+    border-radius: 300px 300px 0px 0px;
+
+}
+
+    

@@ -21,6 +21,7 @@ body{
     width: 100%;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    margin-bottom: -80px;
 }
 
 .content-title{
@@ -124,4 +125,78 @@ body{
 }
 .services-box{
     text-align: center;
+}
+
+.offer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 240px 80px 240px;
+    height: 60vh;
+    background-color: rgba(229, 84, 115, 0.05);
+
+}
+.offer-details{
+    width: 50%;
+    text-align: center;
+}
+.imageoffer{
+    width: 50%;
+}
+.imageoffer{
+    height: 300px;
+    width: 250px;
+}
+
+.offer-title{
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+.offer-p{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.discount{
+    color: #E55473;
+}
+
+
+.instagram-container{
+    text-align: center;
+    margin-right: 240px;
+    margin-left: 240px;
+    margin-bottom: 40px;
+
+}
+
+.insta-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    margin-right: 240px;
+    margin-left: 240px;
+    margin-bottom: 80px;
+   
+}
+
+.insta-img-one{
+    width:200px;
+    height: 250px;
+    
+}
+    
+.insta-img-two{
+    width:200px;
+    height: 250px;
+}
+.insta-img-three{
+    width:200px;
+    height: 250px;
+}
+.insta-img-four{
+    width:200px;
+    height: 250px;
+
 }

@@ -250,3 +250,63 @@ body{
 .copyright-text{
     color: rgba(255, 255, 255, 0.40);
 }
+
+
+.bouquet-container{
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: url("../image/img4.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bouquet-p{
+    font-size: 20px;
+    color:rgb(17, 11, 11) ;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding-top: 15px;
+}
+.bouquet-h2{
+    font-size: 55px;
+    font-weight: 800;
+    color: #E55473;
+    letter-spacing: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bouquet-h3{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: rgb(63, 35, 35);
+    padding-bottom: 20px;
+}
+.bouquet-content{
+    border: solid 4px #E55473;
+    border-radius: 30px 10px 30px 10px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 20px;
+}
+.btn-book{
+    padding: 12px 40px;
+    background:transparent ;
+    color:#E55473;
+    border: solid 2px #E55473;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.btn-call{
+    padding: 12px 50px;
+    background:transparent ;
+    color:#E55473;
+    border: solid 2px #E55473;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+    

@@ -200,3 +200,24 @@ body{
     height: 250px;
 
 }
+
+.newsletter{
+    text-align: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background-image: url("../image/Rectangle9.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.subscription{
+    padding: 15px 100px;
+    border-radius: 8px;
+    background:white;
+    color: black;
+    border: none;
+    border-radius: 10px;
+}
